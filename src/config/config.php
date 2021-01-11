@@ -8,19 +8,19 @@ return [
     |--------------------------------------------------------------------------
     |
     */
-    'model_template_path' => base_path('vendor/oscarafdev/laravel-4-generators/src/Way/Generators/Templates/model.txt'),
+    'model_template_path' => base_path('vendor/siaoynli/laravel-generators/src/Way/Generators/Templates/model.txt'),
 
-    'scaffold_model_template_path' => base_path('vendor/oscarafdev/laravel-4-generators/src/Way/Generators/Templates/scaffolding/model.txt'),
+    'scaffold_model_template_path' => base_path('vendor/siaoynli/laravel-generators/src/Way/Generators/Templates/scaffolding/model.txt'),
 
-    'controller_template_path' => base_path('vendor/oscarafdev/laravel-4-generators/src/Way/Generators/Templates/controller.txt'),
+    'controller_template_path' => base_path('vendor/siaoynli/laravel-generators/src/Way/Generators/Templates/controller.txt'),
 
-    'scaffold_controller_template_path' => base_path('vendor/oscarafdev/laravel-4-generators/src/Way/Generators/Templates/scaffolding/controller.txt'),
+    'scaffold_controller_template_path' => base_path('vendor/siaoynli/laravel-generators/src/Way/Generators/Templates/scaffolding/controller.txt'),
 
-    'migration_template_path' => base_path('vendor/oscarafdev/laravel-4-generators/src/Way/Generators/Templates/migration.txt'),
+    'migration_template_path' => base_path('vendor/siaoynli/laravel-generators/src/Way/Generators/Templates/migration.txt'),
 
-    'seed_template_path' => base_path('vendor/oscarafdev/laravel-4-generators/src/Way/Generators/Templates/seed.txt'),
+    'seed_template_path' => base_path('vendor/siaoynli/laravel-generators/src/Way/Generators/Templates/seed.txt'),
 
-    'view_template_path' => base_path('vendor/oscarafdev/laravel-4-generators/src/Way/Generators/Templates/view.txt'),
+    'view_template_path' => base_path('vendor/siaoynli/laravel-generators/src/Way/Generators/Templates/view.txt'),
 
 
     /*
